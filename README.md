@@ -54,4 +54,3 @@ The project structure is organized as follows:
 
 This web application was created to fulfill the requirements of the Web Technology module and does not represent an actual company or service.
 ```
-Replace "yourusername" and "yourrepository" with your actual GitHub username and repository name. Also, update the "Hosted Application" link with your actual deployed application URL.
